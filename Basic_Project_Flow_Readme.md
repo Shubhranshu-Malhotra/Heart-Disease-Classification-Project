@@ -102,7 +102,7 @@ The goal here is to find out more about the data and become a subject matter exp
 
 ### After fiting each of these on the default parameters we get a baseline model and then we work on Experimentation and Evaluation.
 ### Experimentation and Evaluation involves:
-* Hypyterparameter tuning
+* Hyperparameter tuning
 * Feature importance
 * Confusion matrix
 * Cross-validation
